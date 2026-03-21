@@ -31,8 +31,8 @@ export default function Contact() {
     {
       icon: Phone,
       label: 'Phone',
-      value: '+91 8817015834',
-      href: 'tel:+918817015834',
+      value: '+91 xxxxxxxxxx',
+      href: 'tel:+91xxxxxxxxxx',
     },
     {
       icon: MapPin,
