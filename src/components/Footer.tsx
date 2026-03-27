@@ -92,7 +92,7 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-slate-500">
           <p>© {new Date().getFullYear()} Amit Bhardwaj. All rights reserved.</p>
           <p className="flex items-center gap-1">
-            Made with <Heart size={14} className="text-red-500 fill-red-500" /> using React & Tailwind
+            Made with React & Tailwind
           </p>
         </div>
       </div>
