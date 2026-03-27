@@ -1,10 +1,10 @@
 import { Github, Linkedin, Mail, Heart, ArrowUp, Phone } from 'lucide-react';
 
 const socialLinks = [
-  { icon: Github, href: 'https://github.com/', label: 'GitHub' },
-  { icon: Linkedin, href: 'https://linkedin.com/', label: 'LinkedIn' },
+  { icon: Github, href: 'https://github.com/Apeiro7', label: 'GitHub' },
+  { icon: Linkedin, href: 'https://www.linkedin.com/in/amitbhardwaj7', label: 'LinkedIn' },
   { icon: Mail, href: 'mailto:amitbhardwajy7@gmail.com', label: 'Email' },
-  { icon: Phone, href: 'tel:+918817015834', label: 'Phone' },
+  { icon: Phone, href: 'tel:+91xxxxxxxxxx', label: 'Phone' },
 ];
 
 const footerLinks = [
