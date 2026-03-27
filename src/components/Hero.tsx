@@ -68,7 +68,7 @@ export default function Hero() {
               { icon: Github, href: 'https://github.com/', label: 'GitHub' },
               { icon: Linkedin, href: 'https://linkedin.com/', label: 'LinkedIn' },
               { icon: Mail, href: 'mailto:amitbhardwajy7@gmail.com', label: 'Email' },
-              { icon: Phone, href: 'tel:+918817015834', label: 'Phone' },
+              { icon: Phone, href: 'tel:+91xxxxxxxxxx', label: 'Phone' },
             ].map(({ icon: Icon, href, label }) => (
               <a
                 key={label}
